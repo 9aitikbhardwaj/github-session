@@ -1,3 +1,6 @@
 hello people 
 
 welocome to git 101
+
+hi from naitik bhardwaj
+abcd
